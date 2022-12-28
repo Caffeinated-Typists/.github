@@ -2,6 +2,10 @@
 
 We are 2 college students who love programming and this organisation is our playground for all the projects we are working or have worked on.
 
+You can find us at:
+- [Aakarsh Jain](https://github.com/BlackPanther112358)
+- [Anirudh S Kumar](https://github.com/Anirudh-S-Kumar)
+
 <!--
 
 **Here are some ideas to get you started:**
