@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+We are 2 college students who love programming and this organisation is our playground for all the projects we are working or have worked on.
+
 <!--
 
 **Here are some ideas to get you started:**
